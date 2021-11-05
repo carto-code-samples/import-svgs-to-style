@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportSVGsToStyle", "ImportSVGsToStyle\ImportSVGsToStyle.csproj", "{17CFE781-A7ED-4628-8896-952A0AD83281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CFE781-A7ED-4628-8896-952A0AD83281}.Debug|x64.ActiveCfg = Debug|x64
+		{17CFE781-A7ED-4628-8896-952A0AD83281}.Debug|x64.Build.0 = Debug|x64
+		{17CFE781-A7ED-4628-8896-952A0AD83281}.Release|x64.ActiveCfg = Release|x64
+		{17CFE781-A7ED-4628-8896-952A0AD83281}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF6AD33-A7E2-44DA-9455-8B5F7348AD11}
+	EndGlobalSection
+EndGlobal

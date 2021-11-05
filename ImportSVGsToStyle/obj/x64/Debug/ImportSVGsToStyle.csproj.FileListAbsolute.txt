@@ -1,0 +1,16 @@
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.dll
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.pdb
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csprojAssemblyReference.cache
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csproj.CoreCompileInputs.cache
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.dll
+C:\addins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.pdb
+E:\projects\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.dll
+E:\projects\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.pdb
+E:\projects\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csprojAssemblyReference.cache
+E:\projects\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.dll
+E:\projects\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.pdb
+C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.dll
+C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.pdb
+C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csprojAssemblyReference.cache
+C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.dll
+C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.pdb
