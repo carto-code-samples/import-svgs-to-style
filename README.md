@@ -2,7 +2,7 @@
 Imports a folder of SVG files into an ArcGIS Pro style. The new .stylx file is saved in the same folder as the .svg files. 
 
 ### Requirements
-- ArcGIS Pro version 2.8
+- ArcGIS Pro version 2.8 or 2.9
 
 ### To use:
 - After installing this add-in, open ArcGIS Pro and go to the Add-In tab. 
