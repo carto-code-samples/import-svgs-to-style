@@ -14,3 +14,9 @@ C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\bin\Debu
 C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csprojAssemblyReference.cache
 C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.dll
 C:\multiscale-mapping-tools\add-ins\ImportSVGsToStyle\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.pdb
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.dll
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\bin\Debug\ImportSVGsToStyle.pdb
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csprojAssemblyReference.cache
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.csproj.CoreCompileInputs.cache
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.dll
+C:\github\import-svgs-to-style\v28\ImportSVGsToStyle\obj\x64\Debug\ImportSVGsToStyle.pdb
