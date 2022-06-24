@@ -11,15 +11,15 @@ Imports a folder of SVG files into an ArcGIS Pro style. The new .stylx file is s
 
 ### To install:
 Clone this repository and double-click the correct .esriAddinX file for your version. It will then automatically be copied into your ArcGIS Pro Addins folder and will  be accessible in the Add-Ins tab in ArcGIS Pro the next time you open it.
-For Pro 2.8 and 2.9:
+- For Pro 2.8 and 2.9:
 `..\import-svgs-to-style\v28\ImportSVGsToStyle\bin\Debug\SetPointRotationToAngleField.esriAddinX`
-For Pro 3.0:
+- For Pro 3.0:
 `..\import-svgs-to-style\v30\ImportSVGsToStyle\bin\Debug\net6.0-windows\SetPointRotationToAngleField.esriAddinX`
 
-To install without cloning this repository, download that individual file from this repo and run it:
-For Pro 2.8 and 2.9:
+To install without cloning this repository, download that individual file from this repo and run it.
+- For Pro 2.8 and 2.9:
 https://github.com/carto-code-samples/import-svgs-to-style/blob/main/v28/ImportSVGsToStyle/bin/Debug/ImportSVGsToStyle.esriAddinX
-For Pro 3.0:
+- For Pro 3.0:
 https://github.com/carto-code-samples/import-svgs-to-style/blob/main/v30/ImportSVGsToStyle/bin/Debug/net6.0-windows/ImportSVGsToStyle.esriAddinX
 
 ### To modify:
